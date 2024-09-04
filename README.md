@@ -1,4 +1,4 @@
-# Screen time of the Game of Thrones' Characters
+# Screen time of Game of Thrones Characters
 This contains the datasets and the `R` scripts used to create visualizations.
 
 ## Datasets
